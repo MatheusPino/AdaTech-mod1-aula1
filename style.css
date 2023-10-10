@@ -1,0 +1,38 @@
+.Card {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.Imagem, .Cabecalho {
+    text-align: start;
+    margin: 32px;
+}
+
+.Objetivos {
+    text-align: center;
+    margin: 64px;
+}
+
+.Experiencias {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+h1 {
+    font-size: x-large;
+}
+
+h2 {
+    font-size: large;
+}
+
+.Cursos {
+    width: 45%;
+}
+
+.Profissional {
+    width: 45%;
+}
